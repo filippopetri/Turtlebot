@@ -9,6 +9,8 @@ Quadruped robot based on the phisical design [www.thingiverse.com/thing:152638](
   Copyright &copy; 2015 Filippo Petri, Mattia Dal Ben
 </p>
 
+___ 
+
 <p align="center">
   <img src="images/testing.jpg" height="75%" width="75%"/> <br> First test <br> <br>
   <img src="images/testing3.jpg" height="75%" width="75%"/> <br> Testing <br> <br>

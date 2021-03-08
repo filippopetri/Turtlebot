@@ -6,7 +6,7 @@ Quadruped robot based on the phisical design [www.thingiverse.com/thing:152638](
 ---
 
 <p align="center">
-  &copy; 2015 Filippo Petri, Mattia Dal Ben
+  Copyright &copy; 2015 Filippo Petri, Mattia Dal Ben
 </p>
 
 <p align="center">

@@ -1,4 +1,4 @@
-# Turtlebot - quadruped robot
+# Turtlebot - Quadruped robot
 
 ### Project:
 3D printed Quadruped robot, controlled by an Arduino Mega board, based on the phisical design [www.thingiverse.com/thing:152638](https://www.thingiverse.com/thing:152638)
